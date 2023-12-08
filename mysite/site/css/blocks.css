@@ -1,0 +1,59 @@
+   body {
+       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   }
+
+   #three {
+       position: fixed;
+       top: 0;
+       left: 0;
+       width: 25%;
+       border: 5px solid orange;
+       margin: 5px;
+       padding: 5px;
+   }
+
+   #two {
+       position: fixed;
+       top: 0;
+       right: 0;
+       width: 25%;
+       border: 5px solid green;
+       margin: 5px;
+       padding: 5px;
+   }
+
+   #four {
+       position: fixed;
+       bottom: 0;
+       left: 0;
+       width: 25%;
+       border: 5px solid yellow;
+       margin: 5px;
+       padding: 5px;
+   }
+
+   #one {
+       position: fixed;
+       bottom: 0;
+       right: 0;
+       width: 25%;
+       border: 5px solid blue;
+       margin: 5px;
+       padding: 5px;
+   }
+
+   #link {
+       position: fixed;
+       top: 0;
+       left: 50%;
+       background-color: #0a4b33;
+       color: #eeeeee;
+       opacity: 1;
+       border: 5px solid #0a4b33;
+   }
+
+   a {
+       background-color: transparent;
+       text-decoration: none;
+       color: #eeeeee
+   }
